@@ -1,0 +1,51 @@
+Essai;Tissu;Vitesse;Nb passes;Temp‚rature;R‚sultat;Remarques;
+1;noir fin;700;2;230;soudure pas trop solide;;
+2;noir fin;700;1;230;pas soud‚;;
+3;noir fin;700;2;230;non;hauteur mal r‚gl‚e ? ;
+4;noir fin;700;3;230;non;(z11mm);
+5;noir fin;700;4;230;non;;
+6;noir fin;500;1;230;non;;
+7;noir fin;700;2;230;b‚b‚ trous aux angles, nickel;hauteur 12mm;
+8;noir fin;700;3;230;gros trous aux angles, nickel;;
+9;noir fin;500;1;230;pas de trou aux angles sauf premier point, nickel;;
+10;noir fin;500;2;230;quelques trous aux angles, nickel;;
+11;noir fin;200;1;230;trou d‚marrage, nickel;z12;
+12;noir fin;200;1;230;trou d‚marrage un chouia plus petit, nickel;11.5cm;
+13;noir fin;500;1;230;trait - pas de trou / ;;
+14;noir fin;500;1;230;trou au d‚but (plus petit);;
+15;noir fin;500;1;230;pas de trou oooh ;pas ferm‚;
+16;noir fin;500;1;230;trou;retrait rapide;
+17;noir fin;500;1;230;coins ok;avec ‚lastique 11.5;
+18;noir fin;500;1;230;coins ok;avec ‚lastique z12;
+19;noir fin;250;1;230;soudures c“t‚s fragiles;avec ‚lastique;
+20;noir fin;500;1;230;coins ok;sans ‚lastique;
+21;noir ‚pais;170;1;230;bon;sans ‚lastique;
+22;noir ‚pais;170;1;230;presque nickel jusqu'… explosion;avec ‚lastique z12.5;
+23;noir ‚pais;170;1;280;br–l‚ mais bien soud‚;avec ‚lastique z12.5;
+24;noir ‚pais;500;1;280;trous + pas soud‚;avec ‚las 12;
+25;noir ‚pais;160;1;230;presque nickel jusqu'… explosion;sans ‚lastique;
+26;noir ‚pais;160;1;230;nickel;avec ‚lastique;
+27;noir ‚pais;400;1;230;pas coll‚ partout;sans ‚lastique z12;forme
+28;noir ‚pais;160;1;230;NICKEL ;avec ‚lastique z12.5;forme
+29;orange sur jaune;500;1;230;pas adh‚rent;avec ‚lastique ;
+30;orange sur jaune;170;1;230;nickel;sans ‚lastique;retrait rapide
+31;orange sur jaune;170;1;230;propre;avec ‚lastique;retrait rapide
+32;orange sur gris;500;1;230;pas soud‚;z12 avec ‚lastique;
+33;orange sur gris;170;1;230;soud‚ horizontal pas vertical;z12 avec ‚lastique;
+34;orange sur gris;200;1;230;soud‚ horizontal pas vertical;z12 avec ‚lastique;pas ferm‚ / retrait rapide
+35;noir ‚pais sur jaune;170;1;230;rat‚;sans ‚lastique;
+36;noir ‚pais sur jaune;300;1;260;rat‚;sans ‚lastique;
+37;noir ‚pais sur jaune;300;1;230;rat‚;avec ‚lastique;
+38;noir ‚pais sur jaune;200;1;230;non coll‚ partout;avec ‚lastique;
+39;noir ‚pais sur jaune;250;1;230;ok;sans ‚lastique;
+40;noir ‚pais sur jaune;250;1;230;bon;sans ‚lastique;z1
+41;noir ‚pais sur jaune;250;1;230;bug machine;;
+42;;;;;;;
+43;;;;;;;
+44;;;;;;;
+45;;;;;;;
+46;;;;;;;
+47;;;;;;;
+48;;;;;;;
+49;;;;;;;
+50;;;;;;;
